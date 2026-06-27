@@ -1,0 +1,6 @@
+{
+  "name": "Pivot Software and Consultancy",
+  "description": "High-performance enterprise 3D spatial computing and digital solutions website.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
